@@ -1,0 +1,304 @@
+[
+  {
+    "name": "Bed",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Giường ngủ",
+        "description": "Bao gồm tấm đệm, chăn, gối và ga trải giường."
+      },
+      {
+        "langCode": "en",
+        "name": "Bed",
+        "description": "Including mattress, sheets, pillows, and bedspread."
+      }
+    ]
+  },
+  {
+    "name": "Desk",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Bàn làm việc",
+        "description": ""
+      },
+      {
+        "langCode": "en",
+        "name": "Desk",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Chair",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Ghế",
+        "description": ""
+      },
+      {
+        "langCode": "en",
+        "name": "Chair",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Wardrobe",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Tủ quần áo",
+        "description": ""
+      },
+      {
+        "langCode": "en",
+        "name": "Wardrobe",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Table",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Bàn",
+        "description": ""
+      },
+      {
+        "langCode": "en",
+        "name": "Table",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "TV",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Tivi",
+        "description": ""
+      },
+      {
+        "langCode": "en",
+        "name": "TV",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Mini Fridge",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Tủ lạnh mini",
+        "description": ""
+      },
+      {
+        "langCode": "en",
+        "name": "Mini Fridge",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Coffee Maker",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Máy pha cà phê",
+        "description": ""
+      },
+      {
+        "langCode": "en",
+        "name": "Coffee Maker",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Ironing Board",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Bàn ủi",
+        "description": ""
+      },
+      {
+        "langCode": "en",
+        "name": "Ironing Board",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "Lamp",
+    "furnitureDetails": [
+      {
+        "langCode": "vi",
+        "name": "Đèn",
+        "description": ""
+      },
+      {
+        "langCode": "en",
+        "name": "Lamp",
+        "description": ""
+      }
+    ]
+  },
+    {
+      "name": "Sofa",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Ghế sofa",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Sofa",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Dresser",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Tủ đựng quần áo",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Dresser",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Mirror",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Gương",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Mirror",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Nightstand",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Bàn đầu giường",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Nightstand",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Curtains",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Rèm cửa",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Curtains",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Couch",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Ghế dài",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Couch",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Safe",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Tủ an toàn",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Safe",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Hangers",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Móc treo quần áo",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Hangers",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Trash Can",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Thùng rác",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Trash Can",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Shower",
+      "furnitureDetails": [
+        {
+          "langCode": "vi",
+          "name": "Vòi sen",
+          "description": ""
+        },
+        {
+          "langCode": "en",
+          "name": "Shower",
+          "description": ""
+        }
+      ]
+    }
+  ]
+
+

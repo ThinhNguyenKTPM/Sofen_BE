@@ -1,0 +1,192 @@
+[{
+  "name": "The Sofen Can Tho Riverside Hotel",
+  "addressDetail": "1 Hoa Binh",
+  "latitude": 0,
+  "longitude": 0,
+  "description": "The illusion is that you're on a remote island. The reality is that Six Senses Ninh Van Bay resort in Vietnam sits on a dramatic bay looking out to the East Vietnam Sea so it can only be approached by water. Impressive rock formations, a white sand beach, and a backdrop of towering mountains add to the fantasy. You can't be more intimately at one with nature.",
+  "hotelAddress": {
+    "ward": "Xuân Khánh",
+    "district": "Ninh Kiều",
+    "province": "Cần Thơ",
+    "nation": "Việt Nam"
+  },
+  "hotelContact": {
+    "phoneNumberCode": 84,
+    "phoneNumber": "123456789",
+    "email": "TheSofenCanTho@gmail.com",
+    "facebook": "facebook.com/the-sofen-ct",
+    "instagram": "instagram.com/the-sofen-ct"
+  },
+  "images" : [
+    {
+      "url": "https://azerai.com/wp-content/uploads/2023/11/02-Overview-scaled.jpg",
+      "alt": "Aerial view of the hotel scenery",
+      "mainImage": true
+    },
+    {
+      "url": "https://cdn.shortpixel.ai/spai/q_lossy+w_1370+to_webp+ret_img/azerai.com/wp-content/uploads/2023/11/16-AZCT-The-Swimming-Pool-View-Of-The-Banyan-Trees-scaled.jpg",
+      "alt": "Pool view in sunprise",
+      "mainImage": false
+    }
+  ]
+},
+//The secret Con dao
+{
+  "name": "The Sofen Con Dao Hotel",
+  "addressDetail": "08 Tôn Đức Thắng",
+  "latitude": 0,
+  "longitude": 0,
+  "description": "The illusion is that you're on a remote island. The reality is that Six Senses Ninh Van Bay resort in Vietnam sits on a dramatic bay looking out to the East Vietnam Sea so it can only be approached by water. Impressive rock formations, a white sand beach, and a backdrop of towering mountains add to the fantasy. You can't be more intimately at one with nature.",
+  "hotelAddress": {
+    "ward": "",
+    "district": "Côn Đảo (Hòn Sơn)",
+    "province": "Bà Rịa - Vũng Tàu",
+    "nation": "Việt Nam"
+  },
+  "hotelContact": {
+    "phoneNumberCode": 84,
+    "phoneNumber": "",
+    "email": "TheSofenConDao@gmail.com",
+    "facebook": "facebook.com/the-sofen-cd",
+    "instagram": "instagram.com/the-sofen-cd"
+  },
+  "images" : [
+    {
+      "url": "https://thesecretcondao.com/wp-content/uploads/2021/07/Heroshot-Day.jpg",
+      "alt": "Aerial view of the hotel scenery",
+      "mainImage": true
+    },
+    {
+      "url": "https://thesecretcondao.com/wp-content/uploads/2021/07/Rooftop-View.jpg",
+      "alt": "Aerial view",
+      "mainImage": false
+    },
+    {
+      "url": "https://thesecretcondao.com/wp-content/uploads/2021/07/Heroshot-Night-3.jpg",
+      "alt": "Pool view in sunprise",
+      "mainImage": false
+    },
+    {
+      "url": "https://thesecretcondao.com/wp-content/uploads/2021/07/Heroshot-Night-1.jpg",
+      "alt": "Pool view in sunprise",
+      "mainImage": false
+    }
+  ]
+},
+  //The six sense ninh van bay
+
+  {
+    "name": "The Sofen Ninh Van Bay",
+    "addressDetail": "Ninh Vân Bay",
+    "latitude": 0,
+    "longitude": 0,
+    "description": "The illusion is that you're on a remote island. The reality is that Six Senses Ninh Van Bay resort in Vietnam sits on a dramatic bay looking out to the East Vietnam Sea so it can only be approached by water. Impressive rock formations, a white sand beach, and a backdrop of towering mountains add to the fantasy. You can't be more intimately at one with nature.",
+    "hotelAddress": {
+      "ward": "Ninh Vân",
+      "district": "Ninh Hòa",
+      "province": "Khánh Hòa",
+      "nation": "Việt Nam"
+    },
+    "hotelContact": {
+      "phoneNumberCode": 84,
+      "phoneNumber": "123456787",
+      "email": "TheSofenNinhVanBay@gmail.com",
+      "facebook": "facebook.com/the-sofen-nv",
+      "instagram": "instagram.com/the-sofen-nv"
+    },
+    "images" : [
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/2xgq98n8ztcr599hbfx8skv/Jetty5.jpg?format=webp&width=648&height=405&fit=crop",
+        "alt": "Aerial view",
+        "mainImage": true
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/pghksrt8tkqj4fncqr6vqc49/Aerial_view_with_Dining_on_the_Jetty.jpg?format=webp&width=648&height=405&fit=crop",
+        "alt": "Aerial view",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/997n488n79w9vvkj66r4n/4_Rock_Villa_bathroom.jpg?format=webp&width=1800",
+        "alt": "Pool view in sunprise",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/2xgq98n8ztcr599hbfx8skv/Jetty5.jpg?format=webp&width=1800",
+        "alt": "Quay view",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/ftkg6m23w66hw6txqvxjfc93/Drinks_by_the_Beach.jpg?format=webp&width=1800",
+        "alt": "Drinks by the Beach",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/2fggkn7jsmw5fxg8578p53c/1_Destination_Dining_Wine_Cellar.jpg?format=webp&width=1800",
+        "alt": "Destination Dining Wine Cellar",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/bj7p3bs3c4578rjtgm78pv7z/Spa_Reception5.jpg?format=webp&width=1800",
+        "alt": "Spa Reception",
+        "mainImage": false
+      }
+    ]
+  },
+  {
+    "name": "The Sofen Kanuhura",
+    "addressDetail": "Kanuhura Island",
+    "latitude": 0,
+    "longitude": 0,
+    "description": "The illusion is that you're on a remote island. The reality is that Six Senses Ninh Van Bay resort in Vietnam sits on a dramatic bay looking out to the East Vietnam Sea so it can only be approached by water. Impressive rock formations, a white sand beach, and a backdrop of towering mountains add to the fantasy. You can't be more intimately at one with nature.",
+    "hotelAddress": {
+      "ward": "",
+      "district": "Kanuhura Island",
+      "province": "Lhaviyani Atoll, 07060",
+      "nation": "Maldives"
+    },
+    "hotelContact": {
+      "phoneNumberCode": 84,
+      "phoneNumber": "123456786",
+      "email": "TheSofenKanuhura@gmail.com",
+      "facebook": "facebook.com/the-sofen-kanuhura",
+      "instagram": "instagram.com/the-sofen-kanuhura"
+    },
+    "images" : [
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/6shm3k7j79tn5hkfc9t5vhg9/Six_Senses_Kanuhura_aerial_hero.jpg?format=webp&width=585",
+        "alt": "Aerial view",
+        "mainImage": true
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/gkph6gcc5bbsjwrp5mvc3hm/Drift_arrival.jpg?format=webp&width=585",
+        "alt": "Drift arrival",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/mxjgg6fxf9jc8ptfz5jbn6h/3_Sip___Sand_aerial.jpg?format=webp&width=585",
+        "alt": "Pool view in sunprise",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/vwhxwqctbc9pp8rmnf8nxbf6/1_Sip___Sand_interior.jpg?format=webp&width=585",
+        "alt": "Interior",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/ftkg6m23w66hw6txqvxjfc93/Drinks_by_the_Beach.jpg?format=webp&width=1800",
+        "alt": "Drinks by the Beach",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/sb4r65wf5bkr7sxpngj9ptm3/1_Two_Bedroom_Water_Villa_With_Pool_aerial.jpg?format=webp&width=585",
+        "alt": "Destination Dining Wine Cellar",
+        "mainImage": false
+      },
+      {
+        "url": "https://cdn.bfldr.com/B60H3R33/at/smftc4j4jmwx26t5c3vzx72s/Treatment_Room_couple.jpg?format=webp&width=585",
+        "alt": "Spa Reception",
+        "mainImage": false
+      }
+    ]
+  }
+]

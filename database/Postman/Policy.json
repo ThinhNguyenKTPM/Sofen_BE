@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Chính sách trẻ em",
+    "policyDetails": [
+      {
+        "langCode": "vi",
+        "name": "Chính sách trẻ em",
+        "description": "- Trẻ em dưới 5 tuổi: miễn phí. \n- Trẻ em từ 5 tuổi đến dưới 12 tuổi: phụ thu $ 10 / người / phòng / đêm. \n- Trẻ em từ 12 tuổi hoặc thêm cho người lớn: phụ thu $ 15 / người / phòng / đêm."
+      },
+      {
+        "langCode": "en",
+        "name": "Check-out",
+        "description": "Check-out time is 12:00 PM \n - Check-out from 12:00 PM to 3:00 PM: an additional 30% of room rate will be charged \n - Check-out from 3:00 PM to 6:00 PM: an additional 50% of room rate will be charged \n - Check-out after 6:00 PM: an additional 100% of room rate will be charged"
+      }
+    ]
+  },
+
+
+]
